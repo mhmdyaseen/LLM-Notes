@@ -40,8 +40,8 @@ Book we're following :  Building Large Language Model by Sebastian Raschka
 - This architecture allows for efficient processing of input data through mechanisms like multi-head attention and positional encoding .
 
 **5. Parameter of GPTs**
-<img src="/images/image1" />
-<img src="/images/image2" />
+<img src="/images/image1.jpg" />
+<img src="/images/image2.jpg" />
 
 
 **5. Terminology Clarification**
